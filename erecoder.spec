@@ -6,6 +6,7 @@ Release:	1
 License:	GPL v2
 Group:		Applications/Text
 Source0:	http://eleet.veuu.eu.org/%{name}-%{version}.tar.gz
+# Source0-md5:	1931fb52a73c70275131211f3e0795c6
 URL:		http://eleet.veuu.eu.org/
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
