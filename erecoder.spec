@@ -1,13 +1,14 @@
 Summary:	31337 recoder is a text/data recoder swiss army knife for h4x0rz
 Summary(pl):	31337 recoder to wszechstronny program do przekodowywania tekstu/danych dla h4x0rów
 Name:		erecoder
-Version:	0.3.0
+Version:	0.4.1
 Release:	1
 License:	GPL v2
 Group:		Applications/Text
-Source0:	http://eleet.veuu.eu.org/%{name}-%{version}.tar.gz
-# Source0-md5:	1931fb52a73c70275131211f3e0795c6
-URL:		http://eleet.veuu.eu.org/
+Source0:	http://eleet.czad.org/%{name}-%{version}.tar.gz
+# Source0-md5:	74c6b9f5cf01d487d632429dfa02c17b
+URL:		http://eleet.czad.org/
+BuildRequires:	automake
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
@@ -39,6 +40,7 @@ Jego mo¿liwo¶ci to m.in.:
 %setup -q
 
 %build
+cp /usr/share/automake/config.sub .
 %configure
 %{__make}
 
