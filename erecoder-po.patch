@@ -1,0 +1,19 @@
+--- erecoder-0.4.1/po/pl.po~	Wed Aug  4 00:39:52 2004
++++ erecoder-0.4.1/po/pl.po	Wed Aug  4 00:39:52 2004
+@@ -2,7 +2,6 @@
+ # Copyright (C) YEAR Free Software Foundation, Inc.
+ # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+ #
+-#, fuzzy
+ msgid ""
+ msgstr ""
+ "Project-Id-Version: PACKAGE VERSION\n"
+@@ -11,7 +10,7 @@
+ "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+ "Language-Team: LANGUAGE <LL@li.org>\n"
+ "MIME-Version: 1.0\n"
+-"Content-Type: text/plain; charset=CHARSET\n"
++"Content-Type: text/plain; charset=iso-8859-2\n"
+ "Content-Transfer-Encoding: 8bit\n"
+ 
+ #: recoder.cpp:353
