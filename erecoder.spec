@@ -1,5 +1,5 @@
 Summary:	31337 recoder is a text/data recoder swiss army knife for h4x0rz
-Summary(pl):	31337 recoder to wszechstronny program do przekodowywania tekstu/danych dla h4x0rÛw
+Summary(pl.UTF-8):   31337 recoder to wszechstronny program do przekodowywania tekstu/danych dla h4x0r√≥w
 Name:		erecoder
 Version:	0.4.1
 Release:	2
@@ -26,18 +26,18 @@ Its features include:
  - Decoding of all above ;)
  - Mixing many different encodings
 
-%description -l pl
-31337 recoder (erecoder) to wszechstronne narzÍdzie do przekodowywania
-tekstu i danych dla hax0rÛw ;)
+%description -l pl.UTF-8
+31337 recoder (erecoder) to wszechstronne narzƒôdzie do przekodowywania
+tekstu i danych dla hax0r√≥w ;)
 
-Jego moøliwo∂ci to m.in.:
- - czytanie ze standardowego wej∂cia, pliku lub linii poleceÒ
- - kodowanie warto∂ci bajtÛw w systemach liczenia od binarnego do
+Jego mo≈ºliwo≈õci to m.in.:
+ - czytanie ze standardowego wej≈õcia, pliku lub linii polece≈Ñ
+ - kodowanie warto≈õci bajt√≥w w systemach liczenia od binarnego do
    36-go
- - kodowanie w notacji szesnastkowej lub Ûsemkowej z backslashem
+ - kodowanie w notacji szesnastkowej lub √≥semkowej z backslashem
  - kodowanie ROT-x oraz Base64
- - dekodowanie wszystkiego powyøszego ;)
- - mieszanie wielu rÛønych kodowaÒ.
+ - dekodowanie wszystkiego powy≈ºszego ;)
+ - mieszanie wielu r√≥≈ºnych kodowa≈Ñ.
 
 %prep
 %setup -q
