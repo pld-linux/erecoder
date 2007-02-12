@@ -1,5 +1,5 @@
 Summary:	31337 recoder is a text/data recoder swiss army knife for h4x0rz
-Summary(pl.UTF-8):   31337 recoder to wszechstronny program do przekodowywania tekstu/danych dla h4x0rów
+Summary(pl.UTF-8):	31337 recoder to wszechstronny program do przekodowywania tekstu/danych dla h4x0rów
 Name:		erecoder
 Version:	0.4.1
 Release:	2
