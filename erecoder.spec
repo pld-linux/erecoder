@@ -10,7 +10,7 @@ Source0:	http://eleet.czad.org/%{name}-%{version}.tar.gz
 Patch0:		%{name}-po.patch
 URL:		http://eleet.czad.org/
 BuildRequires:	automake
-BuildRequires:	gettext-devel
+BuildRequires:	gettext-tools
 BuildRequires:	libstdc++-devel
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
